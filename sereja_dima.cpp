@@ -16,7 +16,7 @@ int main(){
 	
 	for(int i=0; i<n; i++){
 		if(i%2==0){
-			sereja+=arr[i];
+		sereja+=arr[i];
 		}
 		else{
 			dima+=arr[i];
