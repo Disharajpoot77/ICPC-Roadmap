@@ -10,7 +10,7 @@ int main(){
 	int Anton=0;
     for(int i=0;i<S.size();i++){
 		if(S[i]=='A'){
-			Anton++;
+		Anton++;
 			
 		}
 		else{
