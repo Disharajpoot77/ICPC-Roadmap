@@ -6,7 +6,7 @@ int main(){
 	cin>>s>>t;
 	int count=0;
 	int j=0;
-	for(int i=0; i<t.size(); i++ ){
+  	for(int i=0; i<t.size(); i++ ){
 		if(s[count]==t[i]){
 			count++;
 		}
