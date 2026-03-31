@@ -4,7 +4,7 @@ using namespace std;
 int main(){
 	int n;
 	cin>>n;
-	string S;
+	 string S;
 	cin>>S;
 	int Danik=0;
 	int Anton=0;
