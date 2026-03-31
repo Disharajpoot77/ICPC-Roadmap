@@ -20,7 +20,7 @@ int main(){
 	if(start!=1){	
 		if(j!=n && x[i]==y[j] && x[i]!=x[j]){
 			count++;
-		j++;
+	    	j++;
 		}
 		else if(j==n){
 			i++;
