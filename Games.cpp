@@ -30,7 +30,7 @@ int main(){
 			j++;
 }
 		
-	   if(i==n-1 && j==n){
+	    if(i==n-1 && j==n){
            start++;
 		   i=0;
 		   j=i+1;
