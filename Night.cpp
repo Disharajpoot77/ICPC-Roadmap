@@ -11,7 +11,7 @@ int main() {
  
      for (int i = 0; i < s.length(); i++) {
  
-        int diff = abs(past_char - s[i]);
+         int diff = abs(past_char - s[i]);
  
         if(diff > 13)
             ans += (26 - diff);
