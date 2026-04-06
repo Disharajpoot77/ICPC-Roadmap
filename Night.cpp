@@ -13,7 +13,7 @@ int main() {
  
          int diff = abs(past_char - s[i]);
  
-        if(diff > 13)
+         if(diff > 13)
             ans += (26 - diff);
         else
             ans += diff;
