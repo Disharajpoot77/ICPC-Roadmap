@@ -32,7 +32,7 @@ int main(){
 		
 	    if(i==n-1 && j==n){
            start++;
-		   i=0;
+		    i=0;
 		   j=i+1;
 		}
 	}
