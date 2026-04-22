@@ -29,6 +29,7 @@ int main(){
 		else if(j<n){
 			j++;
 }
+
 		
 	    if(i==n-1 && j==n){
            start++;
