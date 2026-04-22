@@ -15,7 +15,6 @@ int main(){
 	
 
 }
-
  for (char &ch : update) {
    ch = tolower(ch);
     }
