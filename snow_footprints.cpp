@@ -35,6 +35,7 @@ int main(){
 			     end=j;
 			     break; 	
 	        	}
+				
           end=j+2;
 	  }
 			   break;
